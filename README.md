@@ -92,8 +92,10 @@ plt.show()
 ![Screenshot 2025-04-25 185206](https://github.com/user-attachments/assets/d253e31b-7e2e-4b15-8df3-51e818316e96)
 ![Screenshot 2025-04-25 185232](https://github.com/user-attachments/assets/15e65096-8c4c-4b02-86ba-1943af0b5489)
 
+# Graph(FSK)
+![WhatsApp Image 2025-04-25 at 9 00 53 PM](https://github.com/user-attachments/assets/458b7fdc-9720-479b-82bd-8d9a0de06396)
+
 
 # Results
 FSK modulation and demodulation were successfully demonstrated.The modulated signal varied between two frequencies depending on binary input.The demodulated output correctly reproduced the original digital signal, validating theworking of the FSK system.
 
-# Hardware experiment output waveform.
